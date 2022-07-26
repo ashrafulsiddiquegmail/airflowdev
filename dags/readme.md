@@ -14,3 +14,6 @@ Make sure python packages are available (along with others)
 apache-airflow[amazon], json, pandas, sqlalchemy, itertools  
 
 3. Copy the content of folder into AIRFLOW_HOME/dags folder
+
+Git repository 
+https://github.com/ashrafulsiddiquegmail/airflowdev
